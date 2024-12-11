@@ -3,6 +3,12 @@
 ### Duration: Feb 2023 to April 2023
 This project is a Python-based recreation of the classic **Flappy Bird** game. Built using the **Pygame** library, it combines responsive controls, dynamic game mechanics, and engaging visuals for a fun and interactive experience.
 
+## 🎥 Demo
+
+Here's a quick demo of the Flappy Bird game:
+
+![Flappy Bird Demo](./game_recording.gif)
+
 ---
 
 ## 📂 Project Structure
